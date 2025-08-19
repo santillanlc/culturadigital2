@@ -1,0 +1,20 @@
+19-Agosto-2025
+
+Descripción de la actividad:
+
+1. Realiza una investigación de un tema (Nota, noticia, artículo) que tenga impacto y que se relacione con la tecnología, que sea de tu interés.
+Que no sea la misma de abajo, solo es un ejemplo.
+
+Por ejemplo: 
+"SpaceX planea un programa para investigar medicamentos en el espacio"
+Es una nota que se relaciona con tecnología y actualmente tiene mucho impacto.
+
+2. Realiza un diseño de canva(https://www.canva.com/) de 1 hoja, donde escribas el resumen de la nota, debe incluir un diseño que lleve fotos.
+
+3. Realizar los pasos que ya saben y que vimos en clase:
+    - Crear el issue
+    - Pasarlo a progress
+    - Realizar la actividad
+    - Subir la actividad
+    - Comentar la actividad
+    - Cerrar la actividad
