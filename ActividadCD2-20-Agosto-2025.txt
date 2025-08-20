@@ -1,0 +1,19 @@
+19-Agosto-2025
+
+Actividad: Documento de WORD
+
+Descripción de la actividad:
+
+1. Elabora un documento de WORD con las siguientes características, puede ser de cualquier tema.
+
+- Texto
+- 1 Tabla
+- 2 Imágenes
+
+2. Realizar los pasos que ya saben y que vimos en clase:
+    - Crear el issue
+    - Pasarlo a progress
+    - Realizar la actividad
+    - Subir la actividad
+    - Comentar la actividad
+    - Cerrar la actividad
