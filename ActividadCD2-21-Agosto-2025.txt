@@ -1,0 +1,20 @@
+21-Agosto-2025
+
+Actividad: Utilizar ChatGPT para realizar la creación de una imagen de cultura digital 2.
+
+Descripción de la actividad
+----------------------------------------
+1. Utiliza chatgpt para crear una imagen que represente de manera general lo que representa para ustedes la materia de cultura digital.
+
+2. Redacta la información que ingresarás en el ChatGPT.
+
+Por ejemplo: Crea una imagen que representa la materia de cultura digita, que contenga................. (Poner los contenidos que ustedes consideren que representan a la materia).
+
+
+3. Realizar los pasos que ya saben y que vimos en clase:
+    - Crear el issue
+    - Pasarlo a progress
+    - Realizar la actividad
+    - Subir la imagen
+    - Comentar la actividad
+    - Cerrar la actividad
